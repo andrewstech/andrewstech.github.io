@@ -44,10 +44,7 @@ sections:
         image: images/mr maths.png
         image_alt: Feature 2 placeholder image
         image_position: left
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
       - title: Hibbert Home Tech
         content: >
           Hibbert Home Tech was an Alexa skill I developed for a Youtuber named
