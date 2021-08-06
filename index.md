@@ -28,7 +28,7 @@ sections:
       - content: |
           Google home/Assistant Skill to teach young children maths.
         align: left
-        image: images/feature.svg
+        image: images/extra revision.png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
