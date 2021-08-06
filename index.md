@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/Screenshot_20210627-180629_Chrome.jpg
+    image: images/YOUTUBE.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
