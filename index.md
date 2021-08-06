@@ -33,7 +33,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /features
+            url: /extra-revision
             style: secondary
         title: Extra Revision
       - title: Mr Maths
