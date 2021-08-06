@@ -49,10 +49,10 @@ sections:
             url: /features
             style: secondary
       - title: Hibbert Home Tech
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Hibbert Home Tech was an Alexa skill I developed for a Youtuber named
+          [Paul Hibbert](https://www.youtube.com/user/wolfsweb). This skill was
+          around for around 2 years but left Alexa skill store after little use.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
