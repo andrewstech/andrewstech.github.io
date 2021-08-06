@@ -8,9 +8,4 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+Google home/Assistant Skill to teach young children maths. This skill was based on Voiceflow as it seemed an easily root to start with. The skill received over 10 updates and was finally shutdown after 5 months.
