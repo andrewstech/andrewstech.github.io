@@ -78,7 +78,7 @@ sections:
     background_color: gray
 seo:
   title: AndrewsTech
-  description: The preview of the Starter theme
+  description: 'Student, Developer and YouTuber'
   extra:
     - name: 'og:type'
       value: website
