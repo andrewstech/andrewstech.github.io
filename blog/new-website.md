@@ -5,7 +5,7 @@ categories: []
 tags:
   - Website
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: Well we have had a brand new design
 seo:
   title: ''
   description: ''
