@@ -1,6 +1,6 @@
 ---
 title: New Website!
-date: '2021-08-06'
+date: '2021-08-04'
 categories: []
 tags: []
 image_alt: lorem-ipsum
