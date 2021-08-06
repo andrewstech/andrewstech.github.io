@@ -53,12 +53,6 @@
                 "url": "https://github.com/",
                 "style": "link",
                 "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "link",
-                "new_window": true
             }
         ],
         "content": "&copy; AndrewsTech All rights reserved."
