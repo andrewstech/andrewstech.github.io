@@ -70,7 +70,7 @@ sections:
     subtitle: See our open source projects.
     actions:
       - label: Learn More
-        url: 'https://github'
+        url: 'https://github.com/andrewstech'
         style: primary
     has_background: true
     background_color: gray
