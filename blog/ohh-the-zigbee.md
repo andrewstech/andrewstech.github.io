@@ -16,9 +16,10 @@ seo:
 layout: post
 author: _data/team/person-8rvxgjy2b.json
 ---
-## Lorem ipsum
+The Ohh The Zigbee Alexa skill is now fully open source.  The source code can be found [here](https://github.com/Rehide-Smart/Ohh-The-Zigbee). 
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+
+The skill has received some good reviews on Amazon and I hope to develop similar skills in the future.
+
+![](images/Capture.PNG) 
