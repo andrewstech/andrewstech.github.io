@@ -54,7 +54,7 @@ sections:
           [Paul Hibbert](https://www.youtube.com/user/wolfsweb). This skill was
           around for around 2 years but left Alexa skill store after little use.
         align: left
-        image: images/feature.svg
+        image: images/unnamed.jpg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
