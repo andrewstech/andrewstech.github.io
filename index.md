@@ -54,10 +54,7 @@ sections:
         image: images/unnamed.jpg
         image_alt: Feature 3 placeholder image
         image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
   - type: blog_feed_section
     title: New Blog Posts
     show_recent: true
