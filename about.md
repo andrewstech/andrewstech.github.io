@@ -16,7 +16,7 @@ sections:
       and Google nest.
 
   - type: team_section
-    title: Our Team
+    title: Team
     team:
       - _data/team/miles-tone.yaml
       - _data/team/dianne-ameter.yaml
