@@ -6,7 +6,7 @@ sections:
     subtitle: 'Student, Developer & Youtuber'
     actions:
       - label: YouTube
-        url: /features
+        url: 'https://youtube.com/andrewstech'
         style: primary
       - label: Contact Us
         url: /contact
