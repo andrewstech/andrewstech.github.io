@@ -70,7 +70,7 @@ sections:
     subtitle: See our open source projects.
     actions:
       - label: Learn More
-        url: /features
+        url: 'https://github/'
         style: primary
     has_background: true
     background_color: gray
