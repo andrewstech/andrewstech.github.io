@@ -1,8 +1,7 @@
 ---
 title: Ohh The Zigbee
 date: '2021-08-06'
-categories:
-  - _data/categories/category-k4ke3xpe9.json
+categories: []
 tags: []
 image_alt: lorem-ipsum
 excerpt: The skill is now open source. And free to edit ...
