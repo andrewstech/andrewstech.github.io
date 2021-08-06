@@ -37,10 +37,9 @@ sections:
             style: secondary
         title: Extra Revision
       - title: Mr Maths
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Mr Maths was a flashcard based Maths quiz available on Alexa and
+          Google Assistant in 2019 to early 2020.
         align: left
         image: images/mr maths.png
         image_alt: Feature 2 placeholder image
