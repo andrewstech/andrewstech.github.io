@@ -5,7 +5,7 @@ sections:
     title: Welcome to the AndrewsTech Website!
     subtitle: 'Student, Developer & Youtuber'
     actions:
-      - label: Learn More
+      - label: YouTube
         url: /features
         style: primary
       - label: Contact Us
