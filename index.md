@@ -25,10 +25,8 @@ sections:
   - type: features_section
     title: Projects
     features:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+      - content: |
+          Google home/Assistant Skill to teach young children maths.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
