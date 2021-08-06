@@ -37,6 +37,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
+        title: Mr Maths
       - title: Feature 2
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
