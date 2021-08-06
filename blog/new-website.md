@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: New Website!
 date: '2021-08-06'
 categories: []
 tags: []
