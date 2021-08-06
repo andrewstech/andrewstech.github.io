@@ -35,7 +35,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-        title: Extra Maths
+        title: Extra Revision
       - title: Feature 2
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
