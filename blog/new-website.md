@@ -3,7 +3,7 @@ title: New Website!
 date: '2021-07-04'
 categories: []
 tags:
-  - lorem-ipsum
+  - Website
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
