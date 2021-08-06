@@ -16,7 +16,7 @@ sections:
       and Google nest.
 
   - type: team_section
-    title: Team
+    title: Unofficial Skills Team
     team:
       - _data/team/miles-tone.yaml
       - _data/team/dianne-ameter.yaml
