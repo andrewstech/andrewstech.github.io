@@ -4,7 +4,7 @@ date: '2021-08-06'
 categories: []
 tags:
   - Alexa
-  - lorem-ipsum
+  - GitHub
 image_alt: lorem-ipsum
 excerpt: The skill is now open source. And free to edit ...
 seo:
