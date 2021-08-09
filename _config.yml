@@ -22,3 +22,6 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
+name: AndrewsTech
+description: Student Developer
+url: http://andrewstech.me
