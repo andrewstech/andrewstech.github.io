@@ -15,6 +15,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 author: _data/team/person-8rvxgjy2b.json
+image: images/unnamed.jpg
 ---
 The Ohh The Zigbee Alexa skill is now fully open source.  The source code can be found [here](https://github.com/Rehide-Smart/Ohh-The-Zigbee). 
 
