@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Changes to pro
 date: '2021-08-09'
 categories: []
 tags: []
