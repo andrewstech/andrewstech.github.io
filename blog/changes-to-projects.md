@@ -5,7 +5,7 @@ categories: []
 tags:
   - GitHub
 image_alt: lorem-ipsum
-excerpt: 'Projects '
+excerpt: Projects are Moving ...
 seo:
   title: ''
   description: ''
