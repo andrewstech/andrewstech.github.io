@@ -1,6 +1,6 @@
 ---
 title: HomeAssistant Advanced Install
-date: '2021-08-09'
+date: '2021-08-08'
 categories: []
 tags:
   - HOMEASSISATNT
