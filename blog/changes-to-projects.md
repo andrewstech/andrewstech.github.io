@@ -1,5 +1,5 @@
 ---
-title: Changes to pro
+title: Changes to projects
 date: '2021-08-09'
 categories: []
 tags: []
