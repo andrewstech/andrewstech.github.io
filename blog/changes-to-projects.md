@@ -3,7 +3,7 @@ title: Changes to projects
 date: '2021-08-09'
 categories: []
 tags:
-  - lorem-ipsum
+  - GitHub
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
