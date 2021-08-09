@@ -14,5 +14,6 @@ seo:
   type: stackbit_page_meta
 layout: post
 author: _data/team/person-8rvxgjy2b.json
+image: 'images/[Original size] AT.png'
 ---
 Well we have had a brand new website design to keep up with the times. I am hopefully going to be doing lots more blog posts which will be listed here.
