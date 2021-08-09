@@ -14,6 +14,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 author: _data/team/person-8rvxgjy2b.json
+image: images/unofficial skills logo (1).png
 ---
 # **GITHUB**
 
