@@ -5,7 +5,7 @@ categories: []
 tags:
   - GitHub
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: 'Projects '
 seo:
   title: ''
   description: ''
