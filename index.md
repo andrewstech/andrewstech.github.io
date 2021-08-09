@@ -56,6 +56,8 @@ sections:
           Hibbert Home Tech was an Alexa skill I developed for a Youtuber named
           [Paul Hibbert](https://www.youtube.com/user/wolfsweb). This skill was
           around for around 2 years but left Alexa skill store after little use.
+          This skill was designed to stream the latest video of Paul hibbert to
+          users amazon echo devices.
         align: left
         image: images/unnamed.jpg
         image_alt: Feature 3 placeholder image
