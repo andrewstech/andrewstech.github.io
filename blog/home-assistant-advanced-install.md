@@ -5,7 +5,7 @@ categories: []
 tags:
   - HOMEASSISATNT
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: Install HomeAssistant on DietPi
 seo:
   title: ''
   description: ''
