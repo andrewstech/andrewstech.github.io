@@ -2,7 +2,8 @@
 title: HomeAssistant Advanced Install
 date: '2021-08-09'
 categories: []
-tags: []
+tags:
+  - lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
