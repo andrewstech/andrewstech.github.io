@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: HomeAssistant Advanced Install
 date: '2021-08-09'
 categories: []
 tags: []
