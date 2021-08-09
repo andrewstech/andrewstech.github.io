@@ -43,7 +43,9 @@ sections:
       - title: Mr Maths
         content: >
           Mr Maths was a flashcard based Maths quiz available on Alexa and
-          Google Assistant in 2019 to early 2020.
+          Google Assistant in 2019 to early 2020. The skill was very similar to
+          extra revision but had extra features such as profiles and levels to
+          allow the users to have a unique experience.
         align: left
         image: images/mr maths.png
         image_alt: Feature 2 placeholder image
@@ -54,6 +56,8 @@ sections:
           Hibbert Home Tech was an Alexa skill I developed for a Youtuber named
           [Paul Hibbert](https://www.youtube.com/user/wolfsweb). This skill was
           around for around 2 years but left Alexa skill store after little use.
+          This skill was designed to stream the latest video of Paul hibbert to
+          users amazon echo devices.
         align: left
         image: images/unnamed.jpg
         image_alt: Feature 3 placeholder image
