@@ -17,7 +17,7 @@ author: _data/team/person-8rvxgjy2b.json
 ---
 # HomeAssistant Advanced Install&#xA;
 
-Step 1 head to the [dietpi website](https://web.archive.org/web/20210123123637/https://dietpi.com/) and download the 64 bit Os for your device.
+Step 1 head to the [dietpi website](https://dietpi.com/) and download the 64 bit Os for your device.
 
 Step 2  flash dietpi to your SD card using the Raspberry pi imager
 
