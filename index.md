@@ -25,8 +25,12 @@ sections:
   - type: features_section
     title: Projects
     features:
-      - content: |
-          Google home/Assistant Skill to teach young children maths.
+      - content: >
+          Google home/Assistant Skill to teach young children maths. By
+          embracing smart technology such as Amazon echo's and Google Home's.
+          This skill was quite popular at the start but became less popular over
+          time as bugs started to develop in the skill. This meant often the
+          skill would crash.
         align: left
         image: images/extra revision.png
         image_alt: Feature 1 placeholder image
