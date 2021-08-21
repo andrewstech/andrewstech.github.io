@@ -11,5 +11,5 @@ group :jekyll_plugins do
     gem "jekyll-paginate-v2", "~> 1.9"
     gem "jekyll-paginate", "~> 1.1"
     gem "jekyll-feed", "~> 0.3.1",
-    gem 'jekyll-sitemap'
+    gem 'jekyll-sitemap', '~> 1.4'
 end
