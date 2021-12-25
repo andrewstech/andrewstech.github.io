@@ -5,7 +5,7 @@ categories:
   - _data/categories/category-fcay5qeen.json
 tags: []
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: Windows 11
 seo:
   title: ''
   description: ''
