@@ -14,4 +14,6 @@ seo:
 layout: post
 author: _data/team/person-8rvxgjy2b.json
 ---
-I have been recently helping on a recreation of Windows 11 Made in React.
+I have been recently helping on a recreation of Windows 11 Made in React. Find the project [here.](https://win11.blueedge.me/)
+
+![](images/home.jpg)
