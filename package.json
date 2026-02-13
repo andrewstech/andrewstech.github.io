@@ -1,0 +1,8 @@
+{
+  "name": "andrewstech-github-io",
+  "private": true,
+  "scripts": {
+    "dev": "python3 -m http.server 8080",
+    "stackbit:dev": "npx @stackbit/cli@latest dev"
+  }
+}
